@@ -1,0 +1,1 @@
+INSERT INTO book(title, author, isbn, publication_date, genre) VALUES ('Mein Kochbuch 1', 'Linhui Li', '12389122389NA', 2020, 'Kochbuch');

@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-12-01T14:00:51.968+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/api/v1/hello"
+}
